@@ -1,3 +1,5 @@
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+
 ## Rebase Spec
 
 Rebase is a staking protocol deployed on Base. Rebase gives holders of ERC-20 assets a safe, new way to put them to work across an emerging set of new apps and protocols powered by staking and restaking.
